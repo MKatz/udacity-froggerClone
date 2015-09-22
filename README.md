@@ -1,3 +1,8 @@
+Directions
+==========
+
+Use the arrow keys to control your player. Don't run into the bugs, you will die. Don't go into the water, you will drown. Live forever, you win.
+
 frontend-nanodegree-arcade-game
 ===============================
 
