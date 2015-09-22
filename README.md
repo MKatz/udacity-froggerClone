@@ -1,3 +1,7 @@
+How to play the game
+====================
+To play, simply clone or download this repo. Click on index.html to run. Enjoy.
+
 Directions
 ==========
 
